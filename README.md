@@ -9,9 +9,9 @@
 ### BAs
 | BA   | Last Activity  | Comment    |
 |------|:--------------:|------------|
-| name | m/d/yyyy | (optional) |
+| Valentyn | 09/02/2025 | (optional) |
 
 ### Devs
 | Developer | Last Activity | Comment |
 |-----------|:-------------:|---------|
-| name | m/d/yyyy | (optional) |
+| Artem Mazurov | 09/02/2025 | (optional) |
